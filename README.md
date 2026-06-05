@@ -37,6 +37,6 @@ Select game mode (Easy / Hard)
 Choose word length
 Guess letters step by step
 Try to complete the word before lives run out
-Win or try again! 
-🎯 Objective
-To build a simple yet engaging command-line game that demonstrates core Python programming concepts in a fun and practical way.
+Win or try again!
+
+Created by Khush Shah as a part of the CodeALpha intership.
